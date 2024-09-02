@@ -1,3 +1,4 @@
+import Bootstrap from "./Bootstrapex";
 import Hello from "./Hello";
 function App(){
   return <div>
@@ -5,6 +6,7 @@ function App(){
     hello world! 
   </h1>
   <Hello></Hello>
+  <Bootstrap></Bootstrap>
   </div>
 }
 
