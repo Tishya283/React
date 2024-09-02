@@ -1,10 +1,10 @@
-import Tbutton from "./tbutton";
+import Hello from "./Hello";
 function App(){
   return <div>
     <h1>
     hello world! 
   </h1>
-  <Tbutton></Tbutton>
+  <Hello></Hello>
   </div>
 }
 
