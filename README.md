@@ -1,2 +1,2 @@
 # React
-Creating responsive web pages using react.dev
+Learning and Creating responsive web pages using react.dev
